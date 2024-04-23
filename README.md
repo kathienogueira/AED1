@@ -1,2 +1,2 @@
 # AED1
-Repositório das aulas de algoritmos de Ciências de Dados - Fatec
+Repositório das aulas de Algoritmos de Ciências de Dados - Fatec
